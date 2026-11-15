@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS students;
+DROP SEQUENCE IF EXISTS student_code_seq;
